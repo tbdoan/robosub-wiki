@@ -6,11 +6,13 @@
 Welcome to robosub-wiki's documentation!
 ========================================
 
-*sup bitch*
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   pages/edgenets
+   pages/conda_env_setup
+   pages/hydrophone_znq-7000
 
 
 
@@ -20,4 +22,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`bipniqqa`

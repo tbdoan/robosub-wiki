@@ -4,11 +4,15 @@
    contain the root `toctree` directive.
 
 Welcome to robosub-wiki's documentation!
-=======================================
+========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   pages/edgenets
+   pages/conda_env_setup
+   pages/hydrophone_znq-7000
 
 
 
