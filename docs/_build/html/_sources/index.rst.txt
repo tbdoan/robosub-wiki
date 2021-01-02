@@ -7,12 +7,12 @@ Welcome to robosub-wiki's documentation!
 ========================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    pages/edgenets
-   pages/conda_env_setup
    pages/hydrophone_znq-7000
+   pages/conda_env_setup
 
 
 
